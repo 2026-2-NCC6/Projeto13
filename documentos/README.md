@@ -27,12 +27,12 @@
 | **Campo** | **Informação** |
 | :--- | :--- |
 | **Aluno(s) Responsável(veis)** | Maria Eduarda |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | Projeto Interdisciplinar: Internet das Coisas e Robótica |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | Gemini |
+| **Versão/modelo** | 3.5 flash lite |
+| **Disciplina / Trabalho** | Projeto Interdisciplinar: Internet das Coisas e Robótica — ScoreSmash |
+| **Finalidade de uso** | Apoio na estruturação de tópicos, organização textual, revisão da documentação técnica e levantamento de insights sobre integração de hardware e riscos de sensoriamento IoT. |
+| ***Prompts* principais utilizados** | 1. *"Sou estudante de Ciência da Computação e estou desenvolvendo o projeto ScoreSmash para a matéria de Projeto Interdisciplinar: IoT e Robótica. Atue como engenheiro de sistemas embarcados e me ajude a estruturar os tópicos e a formatação técnica do relatório de concepção do sistema (alvo IoT de 50x50 cm com 16 lasers, 16 LDRs, matriz de 64 LEDs e Arduino). Traga insights sobre como organizar a arquitetura em camadas (embarcado, backend e frontend) sem gerar o texto pronto."* |
+| **Trechos ou entregas afetadas** | **Entrega 01 (Concepção Técnica, Arquitetura IoT e Modelagem do Sistema):**<br><br>A ferramenta atuou na estruturação dos tópicos da documentação, organização conceitual das quatro camadas do ecossistema (embarcado, comunicação, backend e dashboard visual) e alinhamento do escopo técnico para detecção bidimensional de impactos. |
 
 <br>
 
@@ -41,12 +41,12 @@
 | **Campo** | **Informação** |
 | :--- | :--- |
 | **Aluno(s) Responsável(veis)** | Flávia da Costa |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
+| **Ferramenta utilizada** | Gemini |
+| **Versão/modelo** | 3.5 flash lite |
 | **Disciplina / Trabalho** | Redes de Computadores e Cibersegurança |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Finalidade de uso** | Apoiar na interpretação de relatórios de varredura do Aikido Security, auxílio no entendimento dos níveis de severidade de vulnerabilidades em dependências/código e revisão textual da documentação técnica. |
+| ***Prompts* principais utilizados** | 1. *"Analise a segurança de um projeto de software e identifique possíveis vulnerabilidades relacionadas a dependências, exposição de dados, configurações inadequadas e boas práticas de desenvolvimento seguro. Apresente os riscos identificados e possíveis medidas de mitigação."*<br><br>2. *"Explique como utilizar o Aikido Security para realizar uma análise de vulnerabilidades em um repositório GitHub. Interprete os resultados do relatório de segurança, explique os níveis de severidade e sugira ações para corrigir ou reduzir os riscos encontrados."* |
+| **Trechos ou entregas afetadas** | **Entrega 01 (Análise de Vulnerabilidades e Varredura com Aikido Security):**<br><br>Utilizada como suporte na interpretação dos resultados de análise de dependências e código gerados pelo Aikido Security no GitHub, auxiliando na compreensão dos níveis de severidade das vulnerabilidades encontradas. |
 
 <br>
 
@@ -60,7 +60,7 @@
 | **Disciplina / Trabalho** | Sistemas Embarcados e Robótica – Projeto Interdisciplinar “Smart Tennis Arena” (Sistema ScoreSmash) |
 | **Finalidade de uso** | Discutir a arquitetura da moldura de detecção (barreira óptica com lasers e LDRs em matriz), dimensionar os componentes com a Lei de Ohm e tirar dúvidas de ligação no Tinkercad (modelo reduzido 2×2). |
 | ***Prompts* principais utilizados** | 1. *"Me ajude a desenvolver tecnicamente a ideia de uma moldura na parede com sensores laser nas bordas, formando uma matriz, para detectar onde a bola de tênis bate."*<br><br>2. *"Simplifique a simulação para uma matriz 2×2 no Tinkercad, sem CIs, e me explique como ligar os lasers e os LDRs."* |
-| **Trechos ou entregas afetadas** | Apoio na montagem do esquema no Tinkercad. |
+| **Trechos ou entregas afetadas** | **Entrega 01:** apoio na montagem do esquema no Tinkercad. |
 
 <br>
 
@@ -69,12 +69,12 @@
 | **Campo** | **Informação** |
 | :--- | :--- |
 | **Aluno(s) Responsável(veis)** | Flavia da Costa |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
+| **Ferramenta utilizada** | Gemini |
+| **Versão/modelo** | 3.5 flash lite |
 | **Disciplina / Trabalho** | Teoria da Computação e Linguagens Formais |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Finalidade de uso** | Apoio na estruturação de modelos formais, validação da coerência lógica de autômatos, organização de tabelas de transição e revisão textual dos contratos de operação do sistema. |
+| ***Prompts* principais utilizados** | 1. *"Explique como representar o funcionamento de um sistema interativo por meio de um diagrama de estados. Identifique os estados possíveis, eventos que provocam transições e condições necessárias para cada mudança de estado."* |
+| **Trechos ou entregas afetadas** | **Entrega 01 (Modelagem de Estados e Concepção Formal do Sistema):**<br><br>Utilizada na estruturação dos conceitos formais de máquinas de estados, auxiliando na identificação dos estados operacionais e do alfabeto de eventos para a representação do sistema. |
 
 ---
 
@@ -101,12 +101,12 @@
 | **Campo** | **Informação** |
 | :--- | :--- |
 | **Aluno(s) Responsável(veis)** | Maria Eduarda |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | Projeto Interdisciplinar: Internet das Coisas e Robótica |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | Gemini |
+| **Versão/modelo** | 3.5 flash lite |
+| **Disciplina / Trabalho** | Projeto Interdisciplinar: Internet das Coisas e Robótica — ScoreSmash |
+| **Finalidade de uso** | Apoio na estruturação de tópicos, organização textual, revisão da documentação técnica e levantamento de insights sobre integração de hardware e riscos de sensoriamento IoT. |
+| ***Prompts* principais utilizados** | 1. *"Atue como consultor de robótica e IoT. Analise a arquitetura física do ScoreSmash baseada em multiplexação analógica (74HC4067) e registradores de deslocamento (74HC595 em cascata). Em vez de escrever o relatório, aponte os principais pontos de atenção quanto ao ruído óptico ambiente, tempo de resposta dos fotoresistores (LDRs) e como apresentar essas evidências de calibração no relatório técnico da Entrega 2."* |
+| **Trechos ou entregas afetadas** | **Entrega 02 (Integração de Hardware, Circuitos de Expansão e Comunicação API/WiFi):**<br><br>O uso da ferramenta auxiliou na revisão técnica sobre os circuitos de expansão de E/S (multiplexador analógico 74HC4067 e registradores 74HC595 em cascata), no mapeamento de riscos de interferência luminosa externa sobre os LDRs e na organização da seção de testes de integração e envio de telemetria via Wi-Fi para o servidor. |
 
 <br>
 
@@ -115,12 +115,12 @@
 | **Campo** | **Informação** |
 | :--- | :--- |
 | **Aluno(s) Responsável(veis)** | Flávia da Costa |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
+| **Ferramenta utilizada** | Gemini |
+| **Versão/modelo** | 3.5 flash lite |
 | **Disciplina / Trabalho** | Redes de Computadores e Cibersegurança |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Finalidade de uso** | Auxiliar na estruturação da matriz de riscos, organização de estratégias de mitigação técnica e adequação da linguagem do plano de respostas aos padrões de documentação acadêmica. |
+| ***Prompts* principais utilizados** | 1. *"Com base em um relatório de auditoria de segurança, elabore um plano de respostas aos riscos contendo identificação dos riscos, classificação por severidade, impactos potenciais, estratégias de tratamento e medidas preventivas. Utilize uma linguagem técnica e adequada à documentação acadêmica."* |
+| **Trechos ou entregas afetadas** | **Entrega 02 (Plano de Resposta a Riscos e Medidas Mitigatórias):**<br><br>Utilizada na organização e estruturação formal do Plano de Resposta a Riscos, ajudando a categorizar riscos, definir impactos potenciais e formalizar as estratégias de mitigação e prevenção em linguagem técnica. |
 
 <br>
 
@@ -134,7 +134,7 @@
 | **Disciplina / Trabalho** | Sistemas Embarcados e Robótica – Projeto Interdisciplinar “Smart Tennis Arena” (Sistema ScoreSmash) |
 | **Finalidade de uso** | Revisar, módulo por módulo, a ligação do circuito físico (alimentação externa, lasers, LDRs com o 74HC4067 e LEDs com os 74HC595 em cascata); definir o mapeamento de pinos no Arduino; gerar código de controle dos LEDs (atuadores) e de leitura dos LDRs (sensores); identificar riscos técnicos, como o tempo de resposta do LDR. |
 | ***Prompts* principais utilizados** | 1. *"Estou fazendo o projeto da faculdade do Smart Tennis. O jogador rebate a bola com a raquete na moldura, onde há 16 lasers apontados para 16 LDRs. Quando a luz no LDR é interrompida, a bola atingiu algum ponto, e esse ponto é marcado no sistema. A moldura tem uma matriz com 8 lasers na lateral esquerda, 8 na parte superior, 8 LDRs na lateral direita e 8 na parte inferior. Na parte de trás há 64 LEDs espaçados 5 cm entre si. Vamos usar 8 CIs 74HC595 para expandir as saídas dos LEDs, o CI 74HC4067 para expandir as entradas dos LDRs, 64 resistores de 330 Ω, 16 resistores de 10 kΩ e 1 Arduino. Os lasers e os LEDs serão alimentados por uma fonte externa. Os lasers estão com o positivo ligado no cabo branco e o negativo no cabo verde. Os LDRs usam o mesmo 5 V e o mesmo GND, com um resistor de 10 kΩ no lado do GND, e o ponto entre os dois vai para o 74HC4067. Os LEDs têm o negativo no cabo verde e o positivo passa pelo resistor de 330 Ω até os 74HC595. Vamos fazer por módulo. Segue uma foto de referência do esquema."*<br><br>2. *"Tenho 8 CIs 74HC595 ligados em cascata. Vou ligar o primeiro LED, por onde eu começo? Me dê um tutorial."* |
-| **Trechos ou entregas afetadas** | Código-fonte do Arduino (controle dos 64 LEDs pelos 74HC595 e leitura dos LDRs pelo 74HC4067), mapeamento de pinos e roteiro de montagem do circuito físico. |
+| **Trechos ou entregas afetadas** | **Entrega 02:** código-fonte do Arduino (controle dos 64 LEDs pelos 74HC595 e leitura dos LDRs pelo 74HC4067), mapeamento de pinos e roteiro de montagem do circuito físico. |
 
 <br>
 
@@ -143,12 +143,12 @@
 | **Campo** | **Informação** |
 | :--- | :--- |
 | **Aluno(s) Responsável(veis)** | Flavia da Costa |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
+| **Ferramenta utilizada** | Gemini |
+| **Versão/modelo** | 3.5 flash lite |
 | **Disciplina / Trabalho** | Teoria da Computação e Linguagens Formais |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Finalidade de uso** | Apoio na estruturação de modelos formais, validação da coerência lógica de autômatos, organização de tabelas de transição e revisão textual dos contratos de operação do sistema. |
+| ***Prompts* principais utilizados** | 1. *"Com base no funcionamento de um sistema interativo, desenvolva uma tabela de transições de estados contendo estado atual, evento de entrada, condição, próximo estado e ação executada. Garanta que as transições sejam coerentes com o comportamento esperado do sistema."*<br><br>2. *"Analise a lógica de funcionamento de um sistema utilizando conceitos de autômatos e máquinas de estados finitos. Identifique os estados iniciais e finais, eventos, transições e possíveis caminhos de execução, verificando se o comportamento atende aos requisitos definidos para o projeto."* |
+| **Trechos ou entregas afetadas** | **Entrega 02 (Autômato Finito Determinístico, Tabela de Transições e Contratos Operacionais):**<br><br>Utilizada na revisão da lógica formal do autômato determinístico, validação da coerência da tabela de transição de estados e organização textual das pré/pós-condições dos contratos das operações do sistema. |
 
 ---
 
