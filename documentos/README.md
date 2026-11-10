@@ -101,12 +101,12 @@
 | **Campo** | **Informação** |
 | :--- | :--- |
 | **Aluno(s) Responsável(veis)** | Maria Eduarda |
-| **Ferramenta utilizada** | Gemini |
-| **Versão/modelo** | 3.5 flash lite |
-| **Disciplina / Trabalho** | Projeto Interdisciplinar: Internet das Coisas e Robótica — ScoreSmash |
-| **Finalidade de uso** | Apoio na estruturação de tópicos, organização textual, revisão da documentação técnica e levantamento de insights sobre integração de hardware e riscos de sensoriamento IoT. |
-| ***Prompts* principais utilizados** | 1. *"Atue como consultor de robótica e IoT. Analise a arquitetura física do ScoreSmash baseada em multiplexação analógica (74HC4067) e registradores de deslocamento (74HC595 em cascata). Em vez de escrever o relatório, aponte os principais pontos de atenção quanto ao ruído óptico ambiente, tempo de resposta dos fotoresistores (LDRs) e como apresentar essas evidências de calibração no relatório técnico da Entrega 2."* |
-| **Trechos ou entregas afetadas** | **Entrega 02 (Integração de Hardware, Circuitos de Expansão e Comunicação API/WiFi):**<br><br>O uso da ferramenta auxiliou na revisão técnica sobre os circuitos de expansão de E/S (multiplexador analógico 74HC4067 e registradores 74HC595 em cascata), no mapeamento de riscos de interferência luminosa externa sobre os LDRs e na organização da seção de testes de integração e envio de telemetria via Wi-Fi para o servidor. |
+| **Ferramenta utilizada** | Claude (Anthropic) |
+| **Versão/modelo** | Claude Opus 5.5 |
+| **Disciplina / Trabalho** | Projeto Interdisciplinar: IoT e Robótica – Entrega 2 (NI2): Relatório de Evolução do Projeto ScoreSmash |
+| **Finalidade de uso** | Apoio na organização e montagem do relatório a partir dos materiais fornecidos pela equipe (documento da Entrega 1, descrição do protótipo, componentes utilizados e funcionamento do sistema). A ferramenta auxiliou na estruturação das seções e na redação dessas informações no formato exigido. O conteúdo técnico é de autoria da equipe, e o texto final foi revisado e ajustado pelos integrantes. |
+| ***Prompts* principais utilizados** | 1. *"Me ajuda a fazer a Entrega 2 do Projeto Interdisciplinar com base na Entrega 1 do ScoreSmash"*<br><br>2. *"Monte o relatório de forma simples e enxuta, no formato de relatório de evolução"*<br><br>3. *"O que esta entrega está pedindo?"* |
+| **Trechos ou entregas afetadas** | **Organização e redação das seções do relatório da NI2:**<br><br>Avanços realizados, Alterações no planejamento, Evidências do desenvolvimento e Próxima etapa e dificuldades, elaboradas com base nas informações da equipe. Dados de testes, evidências (fotos e capturas), integrantes e confirmações técnicas foram inseridos pela equipe. |
 
 <br>
 
